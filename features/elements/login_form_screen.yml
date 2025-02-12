@@ -1,0 +1,10 @@
+login_form:
+  field_username:
+    type: 'id'
+    value: 'user-name'
+  field_password:
+    type: 'id'
+    value: 'password'
+  button_login:
+    type: 'id'
+    value: 'login-button'
