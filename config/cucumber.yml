@@ -1,0 +1,3 @@
+chrome: BROWSER=chrome --format pretty --format
+chrome_headless: BROWSER=headless --format pretty --format
+default: --publish-quiet
